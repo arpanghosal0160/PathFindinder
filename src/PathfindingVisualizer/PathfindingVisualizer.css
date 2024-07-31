@@ -1,6 +1,6 @@
 .grid {
   margin: 100px 0 0;
-  background-color: #f9f9f9; /* Light background color */
+  background-color: #f5f5dc; /* Light background color */
   border-radius: 10px; /* Rounded corners for the grid container */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
